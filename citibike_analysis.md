@@ -1,26 +1,26 @@
 # NYC Citi Bike Analysis
 This is a summary of the analytic work that I did with the NYC Citi Bike data.
 
-## Number of Records in August
+### Number of Records in August
 2,344,224
 
-## Customers
+### Customers
 - Customers: 443,865
 - Subscribers: 1,900,359
 
-## August Peak Hours
+### August Peak Hours
 - 5 PM - 7PM
 
-## August Low Activity Hours
+### August Low Activity Hours
 - 2 AM - 5 AM
 - Good time to have bike maintenance
 
-## Gender Breakdown
+### Gender Breakdown
 - Female: 588,431
 - Male: 1,530,272
 - Unknown: 225,521
 
-## Average Trip Duration by Age
+### Average Trip Duration by Age
 - The later the birth year the longer the trip duration.
 
 
