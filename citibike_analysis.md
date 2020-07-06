@@ -36,4 +36,4 @@ This may mean many things:
 2. Des Moines doesn't need as many bikes as NYC, and
 3. Des Moines Citi bike users will bike longer distances than NYC Citi bike users.
 
-Tableau Propsal: ![Tableau Proposal](https://public.tableau.com/profile/shannon.dang#!/vizhome/bike_15939944330200/DesMoinesCitiBikeProposal?publish=yes)
+Tableau Propsal: [Tableau Proposal](https://public.tableau.com/profile/shannon.dang#!/vizhome/bike_15939944330200/DesMoinesCitiBikeProposal?publish=yes)
