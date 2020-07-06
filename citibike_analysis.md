@@ -27,7 +27,6 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data.
 
 # What is the density of McDonald's in New York City versus Des Moines? Does this affect where people go in the city? If so, how?
 
-## City Differences
 "Des Moines is the capital and the most populous city in the U.S. state of Iowa." while " NYC, is the most populous city in the United States. NYC's population is (8,336,817) approximately 39 times that of Des Moines's population.
 
 Looking at NYC McDonald's locations, we can see that the McDonald's location are closer in proximity than the McDonald's locations in Des Moines. This can be explained by NYC's population (8,336,817) being approximately 39 times that of Des Moines's population.
@@ -37,4 +36,4 @@ This may mean many things:
 2. Des Moines doesn't need as many bikes as NYC, and
 3. Des Moines Citi bike users will bike longer distances than NYC Citi bike users.
 
-Tableau Propsal: ![Tableau Propsal](https://public.tableau.com/profile/shannon.dang#!/vizhome/bike_15939944330200/DesMoinesCitiBikeProposal?publish=yes)
+Tableau Propsal: ![Tableau Proposal](https://public.tableau.com/profile/shannon.dang#!/vizhome/bike_15939944330200/DesMoinesCitiBikeProposal?publish=yes)
